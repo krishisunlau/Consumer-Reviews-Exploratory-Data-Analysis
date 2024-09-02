@@ -1,5 +1,6 @@
 # Consumer-Reviews-Exploratory-Data-Analysis
-This project was done within an Externship for Beats By Dre. 
+This project was done within an Externship for Beats By Dre ----- https://colab.research.google.com/drive/14MEEaNHkcp0K3c-SFccs2_fB9P9YzzxP?usp=sharing 
+
 
 The process leading up to the final project includes: 
 
